@@ -1,0 +1,783 @@
+@media only screen and (max-width: 320px){
+
+.full_rapper {
+	width: 320px;
+}
+.logo img {
+	margin: 50px 0 0 19px;
+}
+.header_section {
+	height: 500px;
+}
+.overlay {
+	height: 500px;
+}
+.nav_menu {
+	float: right;
+}
+.nav_menu ul {
+	display: block;
+	margin-top: -93px;
+	width: 137px;
+}
+.nav_menu ul li {
+	list-style: none;
+	padding: 6px;
+}
+.write h2 {
+	margin: 201px 0 0 0;
+	font-size: 25px;
+	text-align: justify;
+}
+.write a#tag {
+	margin: 0px 0 0 88px;
+	font-size: 15px;
+	width: 112px;
+	padding: 11px;
+}
+.Service_section {
+	height: 1600px;
+}
+.s_overlay {
+	height: 1600px;
+}
+.service h2 {
+	font-size: 31px;
+	line-height: 36px;
+}
+.service hr {
+	width: 72px;
+	margin: -30px auto;
+}
+.service p {
+	margin: 52px 0 0 0;
+	font-size: 17px;
+}
+.Service_section .service_item {
+	display: flex;
+	flex-direction: column;
+}
+.service_item .box {
+	padding: 0;
+}
+.service_item .box h3 {
+	margin: 0;
+}
+.service_item .box p {
+	margin-top: -17px;
+}
+.meet_section {
+	height: 2250px;
+}
+.meet_overlay {
+	height: 2250px;
+}
+.meet_section .team_name h2 {
+	font-size: 26px;
+	color: #3c4761;
+	padding-top: 76px !important;
+	font-family: arial;
+	line-height: 32px;
+	padding-bottom: 68px;
+	text-align: center;
+	font-weight: 300;
+}
+.meet_section .team_name p {
+	font-size: 18px;
+}
+.meet_team_details {
+	display: flex;
+	flex-direction: column;
+}
+.meet_team_details .meet_box h2 {
+	margin: 25px 0 0 auto;
+}
+.meet_team_details .meet_box p {
+	margin: 20px 0 0 0;
+	text-align: justify;
+}
+.meet_team_details .meet_box ul {
+	margin: 10px 0 0 0;
+}
+.meet_box.mt_box1 {
+	margin-top: -43px;
+}
+.meet_box.mt_box2 {
+	margin-top: -124px;
+}
+.meet_box.mt_box3 {
+	margin-top: -120px;
+}
+.skill_part {
+	height: 1600px;
+}
+.skill_part .skill_overlay {
+	height: 1600px;
+}
+.skill_details {
+	display: flex;
+	flex-direction: column;
+}
+.skill_content h2 {
+	font-size: 46px;
+}
+.skill_content p {
+	text-align: justify;
+	font-size: 16px;
+	margin: -50px 0 0 0;
+	padding: 14px;
+}
+.skill_box.s_box2 {
+	margin-top: -100px;
+}
+.skill_box.s_box3 {
+	margin-top: -100px;
+}
+.skill_box.s_box4 {
+	margin-top: -100px;
+}
+.skill_details .skill_box h2 {
+	margin: -17px 0 0 -32px;
+}
+.Portfolio {
+	height: 1550px;
+}
+.Portfolio .Portfolio_overlay {
+	height: 1550px;
+}
+.Portfolio_content h2 {
+	font-size: 32px;
+	padding: 47px;
+} 
+.Portfolio_content hr {
+	margin: -30px 0 0 117px;
+}
+
+.Portfolio_content ul li#list {
+	margin: -35px 0 35px 0;
+}
+.Portfolio_content ul li {
+	margin-top: -35px;
+}
+.Portfolio_content p {
+	text-align: justify;
+	font-size: 21px;
+	padding: 25px;
+	margin-top: -16px;
+}
+.Portfolio_mockup {
+	display: flex;
+	flex-direction: column;
+}
+.Portfolio_mockup .image_mockup {
+	padding: 35px;
+	margin-top: -90px;
+}
+.Portfolio_mockup .image_mockup p {
+	margin: 0 0 44px 42px;
+}
+.Portfolio_mockup .image_mockup img {
+	width: 100%;
+}
+.About_section {
+	height: 1750px;
+}
+.About_overlay {
+	height: 1750px;
+}
+.About_content h2 {
+	font-size: 31px;
+}
+.About_details {
+	display: flex;
+	flex-direction: column;
+}
+.About_box {
+	padding: 0;
+	margin-top: 30px;
+}
+.About_box img {
+	width: 100%;
+	margin-left: -75px;
+}
+
+.About_box p {
+	color: #3c4761;
+	font-size: 18px;
+	margin-top: 180px;
+	margin-left: -122px;
+}
+.About_box h3 {
+	padding: 10px;
+	font-size: 24px;
+	width: 190px;
+	margin-left: -93px;
+}
+.About_box h4 {
+
+	margin-left: -54px;
+	margin-top: -5px;
+}
+.content h2 {
+	font-size: 31px;
+	margin-left: 0;
+	font-weight: 300;
+}
+.content hr {
+	margin: -32px 0 15px 110px;
+}
+.content p {
+	font-size: 15px;
+	margin: 0;
+	line-height: 19px;
+}
+.text_section {
+	margin: 20px 30px;
+	padding: 10px;
+}
+input {
+	margin-top: 15px;
+}
+textarea {
+	margin: 0 0 0 40px;
+}
+a#btn {
+	padding: 10px 15px;
+	margin-top: 54px;
+}
+.footer {
+	height: 100px;
+	background-color: #192a56;
+}
+.footer ul {
+	display: flex;
+	margin-left: 0;
+}
+.footer ul li a {
+	padding: 5px;
+	font-size: 15px;
+	margin: 35px 0 0 3px;
+}
+
+}
+@media only screen and (min-width: 520px) and (max-width: 767px){
+
+.full_rapper {
+	width: 520px;
+}
+.logo img {
+	margin: 36px 0 0 46px;
+}
+.nav_menu ul {
+	margin-top: 28px;
+}
+.nav_menu ul li {
+	padding: 0;
+}
+.nav_menu ul li a {
+	font-size: 15px;
+	padding: 5px;
+	margin-right: 17px;
+}
+.write h2 {
+	text-align: justify;
+	margin: 109px;
+	font-size: 36px;
+}
+.write a#tag {
+	margin: -79px 0 0 175px;
+	padding: 13px;
+
+}
+.Service_section {
+	height: 1240PX;
+}
+.s_overlay {
+	height: 1240PX;
+}
+.service h2 {
+	font-size: 36px;
+}
+.service hr {
+	margin: -30px auto;
+}
+.service p {
+	margin-top: 50px;
+	font-size: 25px;
+}
+.Service_section .service_item {
+	grid-template-columns: repeat(auto-fit, minmax(200px, 2fr));
+}
+.service_item .box {
+	margin-top: 25px;
+}
+.service_item .box h3 {
+	font-size: 22px;
+	margin: 10px 0 0 0;
+}
+.service_item .box p {
+	font-size: 19px;
+	text-align: justify;
+	margin-top: -12px;
+}
+.meet_section {
+	height: 1250px;
+}
+.meet_overlay {
+	height: 1250px;
+}
+.meet_section .team_name h2 {
+	font-size: 35px;
+	font-weight: 300;
+	font-family: arial;
+}
+.meet_section .team_name p {
+	margin-top: -80px;
+}
+.meet_team_details {
+	grid-gap: 0;
+	grid-template-columns: repeat(auto-fit, minmax(200px, 2fr));
+}
+.meet_team_details .meet_box h2 {
+	margin: 20px 0 0 0;
+	font-size: 19px;
+}
+.meet_team_details .meet_box h3 {
+	margin: 6px 31px 0 0;
+	font-size: 14px;
+}
+.meet_team_details .meet_box p {
+	margin: 10px 0 0 0;
+	text-align: justify;
+	font-size: 13px;
+}
+.meet_team_details .meet_box ul {
+	margin: 16px 0 0 -14px;
+}
+.meet_box.mt_box3 {
+	margin: -93px 0 0 0;
+}
+.skill_part {
+	height: 1000px;
+}
+.skill_part .skill_overlay {
+	height: 1000px;
+}
+.skill_content h2 {
+	font-size: 40px;
+}
+.skill_content p {
+	font-size: 25px;
+	margin: -52px 0 0 0;
+}
+.skill_details {
+	grid-gap: 0;
+	grid-template-columns: repeat(auto-fit, minmax(200px, 2fr));
+}
+.skill_details .skill_box {
+	padding: 40px 40px;
+	margin-top: 30px;
+	margin-left: -17px;
+}
+.skill_box.s_box3 {
+	margin-top: -40px;
+}
+.skill_box.s_box4 {
+	margin-top: -40px;
+}
+.skill_details .skill_box h2 {
+	margin: 0 0 0 -5px;
+	width: 163px;
+}
+.Portfolio {
+	height: 850px;
+}
+.Portfolio .Portfolio_overlay {
+	height: 850px;
+}
+.Portfolio_content h2 {
+	font-size: 35px;
+}
+.Portfolio_content p {
+	font-size: 23px;
+	margin-top: -35px;
+}
+.Portfolio_content hr {
+	margin: -60px 0 20px 222px;
+}
+.Portfolio_content ul {
+	margin: -6px 132px;
+}
+.Portfolio_content ul li#list {
+	margin: 0;
+}
+.Portfolio_mockup .image_mockup {
+	padding: 8px;
+	margin-top: 30px;
+}
+.Portfolio_mockup .image_mockup img {
+	width: 80%;
+	margin-left: 19px;
+}
+.Portfolio_mockup .image_mockup p {
+	font-size: 15px;
+	margin: 0;
+	text-align: center;
+}
+.About_section {
+	height: 750px;
+}
+.About_overlay {
+	height: 750px;
+}
+.About_content h2 {
+	font-size: 22px;
+}
+.About_content hr {
+	height: 3px;
+	margin: -35px auto;
+	border: 0;
+}
+.About_content p {
+	padding: 45px;
+}
+.About_box {
+	padding: 0;
+	margin: 0;
+}
+.About_box img {
+	width: 50%;
+	margin-left: 62px;
+}
+.About_box p {
+	font-size: 13px;
+	text-align: center !important;
+	margin-top: 139px;
+}
+.About_box h3 {
+	padding: 10px;
+	font-size: 20px;
+	margin-left: 44px;
+	font-family: arial;
+}
+.About_box h4 {
+	text-align: center;
+	margin-left: -9px;
+}
+.content h2 {
+	font-size: 35px;
+	font-weight: 300;
+	margin-left: 0;
+}
+.content p {
+	font-size: 18px;
+	margin-top: 0;
+	padding: 20px;
+}
+.content hr {
+	margin: 0 auto;
+}
+.text_section {
+	margin: 0 0 0 139px;
+}
+input {
+	margin-top: 15px;
+}
+textarea {
+	margin: 15px 0 0 140px;
+}
+a#btn {
+	padding: 15px 20px;
+	margin-top: 40px;
+}
+.footer {
+	height: 100px;
+}
+.footer ul {
+	margin-left: 0;
+}
+.footer ul li a {
+	padding: 15px;
+	font-size: 15px;
+	margin: 30px 0 0 18px;
+}
+
+}
+@media only screen and (min-width:768px) and (max-width: 991px){
+
+
+.full_rapper {
+	width: 768px;
+}
+.logo img {
+	margin: 50px 0 0 66px;
+}
+.nav_menu ul li {
+	padding: 0;
+	margin-top: 30px;
+}
+.nav_menu ul li a {
+	font-size: 16px;
+	padding: 5px;
+}
+.write h2 {
+	margin: 62px 0 0 3px;
+	font-size: 26px;
+}
+.write a#tag {
+	margin: 48px 0 0 288px;
+	font-size: 17px;
+	width: 127px;
+	padding: 14px;
+}
+.Service_section {
+	height: 550px;
+}
+.s_overlay {
+	height: 550px;
+}
+.service h2 {
+	font-size: 35px;
+}
+.service hr {
+	width: 72px;
+	margin: -30px 0 0 321px;
+}
+.service p {
+	margin: 20px 0 0 0;
+	font-size: 18px;
+}
+.Service_section .service_item {
+	grid-template-columns: repeat(4,1fr);
+}
+.service_item .box {
+	padding: 0;
+}
+.service_item .box img {
+	margin: 70px 0 0 0;
+	width: 30%;
+}
+.service_item .box h3 {
+	font-size: 20px;
+}
+.service_item .box p {
+	font-size: 14px;
+	text-align: justify;
+	padding: 24px;
+	margin-top: -38px;
+}
+.h3_two {
+	margin-top: 24px !important;
+}
+.h3_three {
+	margin-top: 58px !important;
+}
+.h3_five {
+	margin-top: 26px !important;
+}
+.meet_section {
+	height: 600px;
+}
+.meet_overlay {
+	height: 600px;
+}
+.meet_section .team_name h2 {
+	font-size: 32px;
+	font-family: arial;
+	font-weight: 300;
+}
+.meet_section .team_name p {
+	margin-top: -85px;
+}
+.meet_team_details {
+	grid-template-columns: repeat(4,1fr);
+}
+.meet_team_details .meet_box {
+	padding: 0;
+}
+.meet_box.mt_box1 {
+	margin-left: 43px;
+}
+.meet_team_details .meet_box img {
+	width: 50%;
+}
+.meet_team_details .meet_box h2 {
+	margin: 20px 0 0 auto;
+	font-size: 14px;
+	font-family: arial;
+}
+.meet_team_details .meet_box h3 {
+	font-size: 15px;
+	margin: 6px 0 0 -54px;
+}
+.meet_team_details .meet_box p {
+	margin: 10px 0 0 -23px;
+	font-size: 12px;
+	text-align: justify;
+	width: 163px;
+}
+.meet_team_details .meet_box ul {
+	display: flex;
+	margin: 10px 0 0 -16px;
+}
+.fab.fa-facebook.fa-2x.fons {
+	font-size: 1em;
+}
+.fab.fa-twitter-square.fa-2x.fons {
+	font-size: 1em;
+}
+.fab.fa-linkedin.fa-2x.fons {
+	font-size: 1em;
+}
+.far.fa-envelope.fa-2x.fons {
+	font-size: 1em;
+}
+.meet_team_details .meet_box {
+	padding: 0;
+	margin: 0 0 0 17px !important;
+}
+.meet_box.mt_box1 {
+	margin: 3px 0 0 42px !important;
+}
+.meet_box.mt_box2 {
+	margin-left: 22px;
+	margin-top: 9px;
+}
+.meet_box.mt_box3 {
+	margin: 9px 0 0 22px;
+}
+.meet_box.mt_box3.mt_box4 {
+	margin: 7px 0 0 22px;
+}
+.skill_part {
+	height: 400px;
+}
+.skill_part .skill_overlay {
+	height: 400px;
+}
+.skill_content h2 {
+	font-size: 35px;
+	padding: 40px;
+}
+.skill_content p {
+	margin: -29px 0 0 0;
+}
+.skill_details {
+	grid-template-columns: repeat(4, 1fr);
+}
+.skill_details .skill_box {
+	padding: 0;
+	margin-top: 30px;
+	margin-left: 20px;
+}
+.skill_details .skill_box p {
+	font-size: 30px;
+	padding: 29px;
+}
+.skill_details .skill_box h2 {
+	padding: 17px;
+	font-size: 19px;
+}
+.Portfolio {
+	height: 800px;
+}
+.Portfolio .Portfolio_overlay {
+	height: 800px;
+}
+.Portfolio_content h2 {
+	font-size: 35px;
+	padding: 45px;
+}
+.Portfolio_content hr {
+	margin: -25px 0 0 335px;
+}
+.Portfolio_content p {
+	padding: 19px;
+}
+.Portfolio_content ul {
+	margin: 0;
+}
+.Portfolio_content ul li#list {
+	margin: 0 0 0 255px;
+}
+.Portfolio_mockup {
+	grid-template-columns: repeat(2, 2fr);
+}
+.Portfolio_mockup .image_mockup {
+	padding: 0;
+	margin-top: 20px;
+}
+.Portfolio_mockup .image_mockup img {
+	width: 80%;
+	margin-left: 39px;
+}
+.Portfolio_mockup .image_mockup p {
+	font-size: 14px;
+	margin: 0 0 0 37px;
+}
+.About_content h2 {
+	font-size: 30px;
+	font-weight: 300;
+}
+.About_box {
+	padding: 0 inherit !important;
+	margin: 0 auto;
+}
+.About_box img {
+	width: 50%;
+	margin-left: 62px;
+}
+.About_box p {
+	margin-top: 160px;
+	text-align: center;
+}
+.About_box h3 {
+	padding: 9px;
+	font-size: 22px;
+	margin-left: 52px;
+}
+.About_box h4 {
+	margin: 0 0 0 76px;
+}
+
+
+
+
+.content h2 {
+	font-size: 35px;
+	font-weight: 300;
+}
+.content hr {
+	margin: -25px 0 0 311px;
+}
+.content p {
+	margin: 22px;
+}
+.text_section {
+	margin: 28px 0 0 279px;
+}
+input {
+	padding: 9px 51px;
+	margin-top: 10px;
+}
+textarea {
+	margin: 30px 0 0 280px;
+}
+a#btn {
+	margin: 45px 0 0 0;
+	padding: 7px 12px;
+	font-size: 10px;
+}
+.footer {
+	height: 100px;
+}
+.footer ul {
+	margin-left: 120px;
+}
+.footer ul li a {
+	padding: 10px;
+	font-size: 25px;
+	margin-top: 25px;
+}
+
+}
